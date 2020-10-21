@@ -16,6 +16,7 @@
 		671541512540E5BF00947218 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6715414F2540E5BF00947218 /* LaunchScreen.storyboard */; };
 		6715415C2540E5BF00947218 /* newReferencesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6715415B2540E5BF00947218 /* newReferencesTests.swift */; };
 		671541672540E5BF00947218 /* newReferencesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671541662540E5BF00947218 /* newReferencesUITests.swift */; };
+		671541782540E5FD00947218 /* testObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671541772540E5FD00947218 /* testObject.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		671541622540E5BF00947218 /* newReferencesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = newReferencesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		671541662540E5BF00947218 /* newReferencesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newReferencesUITests.swift; sourceTree = "<group>"; };
 		671541682540E5BF00947218 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		671541772540E5FD00947218 /* testObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testObject.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				671541412540E5BD00947218 /* AppDelegate.swift */,
 				671541432540E5BD00947218 /* SceneDelegate.swift */,
 				671541452540E5BD00947218 /* ContentView.swift */,
+				671541772540E5FD00947218 /* testObject.swift */,
 				6715414A2540E5BF00947218 /* Assets.xcassets */,
 				6715414F2540E5BF00947218 /* LaunchScreen.storyboard */,
 				671541522540E5BF00947218 /* Info.plist */,
@@ -270,6 +273,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				671541422540E5BD00947218 /* AppDelegate.swift in Sources */,
+				671541782540E5FD00947218 /* testObject.swift in Sources */,
 				671541442540E5BD00947218 /* SceneDelegate.swift in Sources */,
 				671541492540E5BD00947218 /* newReferences.xcdatamodeld in Sources */,
 				671541462540E5BD00947218 /* ContentView.swift in Sources */,
